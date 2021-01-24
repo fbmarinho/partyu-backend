@@ -1,2 +1,3 @@
 # partyu-backend
-Barckend
+
+Backend
